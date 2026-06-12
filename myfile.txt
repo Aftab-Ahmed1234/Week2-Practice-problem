@@ -1,1 +1,3 @@
-This file is practiced file
+Name: Aftab Ahmed
+Age: 20
+Degree: Bs Computer Science
