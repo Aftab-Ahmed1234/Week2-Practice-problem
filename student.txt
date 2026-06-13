@@ -1,3 +1,0 @@
-name: Aftab Ahmed
-Age: 20
-Degree: Bs Computer Science
